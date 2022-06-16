@@ -1,0 +1,10 @@
+.deal_Image {
+    width: 225x;
+    height: 225px
+  }
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
